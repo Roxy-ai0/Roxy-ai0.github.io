@@ -1,15 +1,36 @@
-# 网站设置
-title: "Wenbiao Liu"  # 浏览器标签页显示的标题
-name: "Wenbiao Liu (刘文彪)" # 侧边栏显示的名字
-description: "Junior Undergraduate Student at CSU"
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-# 侧边栏链接 (Social)
-author:
-  name: "Wenbiao Liu"
-  avatar: "profile.png" # 后面我会教你换头像
-  bio: "Junior Undergraduate Student at Central South University" # 简介
-  location: "Changsha, Hunan, China" # 地点
-  email: "your-email@csu.edu.cn" # 你的邮箱
-  # 下面这些如果没得填，可以先删掉或者留空
-  googlescholar: "" 
-  github: "Roxy-ai0"
+{% include base_path %}
+
+Hi 👋! My name is **Wenbiao Liu (刘文彪)**. 
+
+I am currently a third-year undergraduate student at the **School of Computer Science and Technology, [Central South University](https://www.csu.edu.cn/) (CSU)**, majoring in Computer Science and Technology.
+
+My research interests include **Artificial Intelligence** and **Computer Vision** (此处可改为你具体感兴趣的方向). I am looking for research internship opportunities.
+
+Please feel free to contact me via email.
+
+---
+
+## 📝 Preprints & Projects
+
+* **Project Title (e.g., A Deep Learning Approach for XYZ)**
+  * **Wenbiao Liu**, Teammate A, Teammate B.
+  * *Course Project for Machine Learning, 2025.*
+  * [[Code](https://github.com/Roxy-ai0/your-project)] [[PDF](#)]
+
+---
+
+## 🎓 Education
+
+* **2023.09 - Present**: B.Eng. in Computer Science and Technology
+  * **Central South University**, Changsha, China.
+  * **GPA**: 你的GPA (e.g., 3.8/4.0)
