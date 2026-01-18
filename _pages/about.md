@@ -14,7 +14,7 @@ Hi 👋! My name is **Wenbiao Liu (刘文彪)**.
 
 I am currently a third-year undergraduate student at the **School of Computer Science and Technology, [Central South University](https://www.csu.edu.cn/) (CSU)**, majoring in Computer Science and Technology.
 
-My research interests include **Artificial Intelligence** and **Computer Vision** (此处可改为你具体感兴趣的方向). I am looking for research internship opportunities.
+My research interests include **MLLM** and **Reforcement Learning**. I am looking for research internship opportunities.
 
 Please feel free to contact me via email.
 
@@ -33,4 +33,4 @@ Please feel free to contact me via email.
 
 * **2023.09 - Present**: B.Eng. in Computer Science and Technology
   * **Central South University**, Changsha, China.
-  * **GPA**: 你的GPA (e.g., 3.8/4.0)
+
